@@ -1,0 +1,13 @@
+The Python & Django test app should contain the following:
+
+1. A simple landingpage with a logo, navigation pattern between Home, Register & Login
+
+2. The landingpage will be about displaying layout elements
+
+3. Communication with a PostgreSQL database
+
+4. The register page has a form and register support
+
+5. The login page has a form and login support
+
+6. The page after login will be the welcome screen, could contain user specific data
