@@ -30,3 +30,8 @@ server {
 
 6. Start the Gunicorn web server: 
 gunicorn --bind "0.0.0.0:8000" project_name.wsgi
+
+PS: Check first by doing the migrations and starting the local development server of Django
+
+python manage.py migrate
+python manage.py runserver
